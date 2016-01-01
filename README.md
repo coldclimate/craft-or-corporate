@@ -9,13 +9,15 @@ Thus, a quick reference page, designed for your mobile, when you're standing at 
 
 Requires Python and hopefully only standard libraries.
 
-``` cd source
+```shell
+cd source
 ./build.sh
 ```
 
 If you want to throw the site up quickly to test
 
-``` cd output
+```shell
+cd output
 python -m SimpleHTTPServer
 ```
 
