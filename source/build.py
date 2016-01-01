@@ -11,7 +11,7 @@ with open('data.json') as data_file:
     		text_file.write("<li class=\"%s\"><a href=\"%s\">%s</a> <a href=\"%s\">citation</a></li>" % (item["status"], item["link"], item["name"], item["citation"]))
     	except KeyError:
     		text_file.write("<li class=\"%s\"><a href=\"%s\">%s</a></li>" % (item["status"], item["link"], item["name"]))
-
-    	
 text_file.close()
+with open('../output/breweries.json', 'w') as outfile:
+    json.dump(data, outfile)
 
