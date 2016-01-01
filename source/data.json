@@ -1,4 +1,10 @@
-[{
+[	{
+		"name": "Camden Town Brewery",
+		"status": "corporate",
+		"link": "http://www.camdentownbrewery.com/",
+		"citation": "http://www.theguardian.com/lifeandstyle/2015/dec/23/why-camden-town-brewery-sale-craft-beer"
+	},
+	{
 		"name": "Ballast Point",
 		"status": "corporate",
 		"link": "http://www.ballastpoint.com/",
@@ -18,13 +24,6 @@
 		"status": "craft",
 		"link": "https://www.brewdog.com/",
 		"citation": "https://www.brewdog.com/lowdown/blog/nailing-our-colours-to-the-motherfucking-mast"
-	},
-
-	{
-		"name": "Camden Town Brewery",
-		"status": "corporate",
-		"link": "http://www.camdentownbrewery.com/",
-		"citation": "http://www.theguardian.com/lifeandstyle/2015/dec/23/why-camden-town-brewery-sale-craft-beer"
 	},
 
 
