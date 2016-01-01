@@ -1,0 +1,112 @@
+[	{
+		"name": "Camden Town Brewery",
+		"status": "corporate",
+		"link": "http://www.camdentownbrewery.com/",
+		"citation": "http://www.theguardian.com/lifeandstyle/2015/dec/23/why-camden-town-brewery-sale-craft-beer"
+	},
+	{
+		"name": "Ballast Point",
+		"status": "corporate",
+		"link": "http://www.ballastpoint.com/",
+		"citation": "http://www.bloomberg.com/news/articles/2015-11-16/constellation-to-acquire-ballast-point-brewery-for-1-billion/"
+	},
+
+
+	{
+		"name": "Beavertown",
+		"status": "craft",
+		"link": "http://www.beavertownbrewery.co.uk/"
+	},
+
+
+	{
+		"name": "Brewdog",
+		"status": "craft",
+		"link": "https://www.brewdog.com/",
+		"citation": "https://www.brewdog.com/lowdown/blog/nailing-our-colours-to-the-motherfucking-mast"
+	},
+
+
+	{
+		"name": "Elysian",
+		"status": "corporate",
+		"link": "http://www.elysianbrewing.com/",
+		"citation": "http://www.wsj.com/articles/anheuser-busch-buys-seattle-based-elysian-brewing-1422038807"
+	},
+
+
+	{
+		"name": "Gloucester Brewery",
+		"status": "craft",
+		"link": "http://gloucesterbrewery.co.uk"
+	},
+
+	{
+		"name": "Golden Road",
+		"status": "corporate",
+		"link": "http://www.goldenroad.la/",
+		"citation": "http://www.cnbc.com/2015/09/23/anheuser-busch-scoops-up-another-craft-brewer.html"
+	},
+
+	{
+		"name": "Goose Island",
+		"status": "corporate",
+		"link": "http://www.gooseisland.com/",
+		"citation": "http://articles.chicagotribune.com/2011-03-28/business/ct-biz-0329-goose-ab-20110328_1_chicago-s-goose-island-craft-beer-craft-brewers"
+	},
+
+	{
+		"name": "Hopstuff",
+		"status": "craft",
+		"link": "http://www.hopstuffbrewery.com/"
+	},
+
+	{
+		"name": "Kernel Brewery",
+		"status": "craft",
+		"link": "http://www.thekernelbrewery.com/"
+	},
+
+	{
+		"name": "Lagunitas",
+		"status": "corporate",
+		"link": "https://lagunitas.com/",
+		"citation": "http://www.forbes.com/sites/briansolomon/2015/09/08/heineken-grabs-50-of-lagunitas-brewery-to-take-ipas-global"
+	},
+
+	{
+		"name": "Magic Rock Brewing",
+		"status": "craft",
+		"link": "http://www.magicrockbrewing.com"
+	},
+
+	{
+		"name": "Meantime",
+		"status": "corporate",
+		"link": "http://www.meantimebrewing.com/",
+		"citation": "http://www.theguardian.com/business/2015/may/15/sab-miller-buys-meantime-to-enter-uk-craft-beer-market"
+	},
+
+	{
+		"name": "Nøgne Ø",
+		"status": "corporate",
+		"link": "http://www.nogne-o.com/",
+		"citation": "http://beerstreetjournal.com/nogne-o-gets-acquired/"
+	},
+
+	{
+		"name": "Padstow Brewing",
+		"status": "craft",
+		"link": "http://padstowbrewing.co.uk"
+	},
+
+	{
+		"name": "The Red Church",
+		"status": "craft",
+		"link": "http://www.theredchurchbrewery.com/"
+	}, {
+		"name": "Tyne Bank",
+		"status": "craft",
+		"link": "http://www.tynebankbrewery.co.uk"
+	}
+]
