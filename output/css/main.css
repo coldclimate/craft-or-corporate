@@ -373,5 +373,34 @@ nav a:hover {
 }
 
 /* custom */
-.craft {background-color: green;}
-.corporate {background-color: red;}
+.craft {
+    background-color: #96e59f;
+}
+
+.craft:before {
+    content: "\002714";
+    margin-right: 1em;
+}
+
+.corporate {
+    background-color: #ff675e;
+}
+
+.corporate:before {
+    content: "\002715";
+    margin-right: 1em;
+}
+
+.breweries {
+    list-style-type: none;
+    padding: 0;
+}
+
+.breweries li {
+    padding: 4px 12px;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.4);
+}
+
+.breweries, .breweries a {
+    color: rgba(0, 0, 0, 0.7);
+}
