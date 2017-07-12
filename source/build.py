@@ -8,9 +8,9 @@ with open('data.json') as data_file:
     data.sort(key=lambda tup: tup["name"])
     for item in data:
     	try:
-    		text_file.write("<li class=\"%s\"><a href=\"%s\">%s</a> <a href=\"%s\">citation</a></li>" % (item["status"], item["link"], item["name"], item["citation"]))
+    		text_file.write("<li class=\"%s\"><a href=\"%s\" class=\"brewery\">%s</a> <a href=\"%s\" class=\"citation\">[citation]</a></li>" % (item["status"], item["link"], item["name"], item["citation"]))
     	except KeyError:
-    		text_file.write("<li class=\"%s\"><a href=\"%s\">%s</a></li>" % (item["status"], item["link"], item["name"]))
+    		text_file.write("<li class=\"%s\"><a class=\"brewery\" href=\"%s\">%s</a></li>" % (item["status"], item["link"], item["name"]))
 text_file.close()
 with open('../output/breweries.json', 'w') as outfile:
     json.dump(data, outfile)
