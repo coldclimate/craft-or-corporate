@@ -7,6 +7,8 @@ with open('data.json') as data_file:
     data = json.load(data_file)
     data.sort(key=lambda tup: tup["name"])
     for item in data:
+    	if 'link' not in item:
+    		item["link"] = item["citation"]
     	try:
     		text_file.write("<li class=\"%s\"><a href=\"%s\">%s</a> <a href=\"%s\">citation</a></li>" % (item["status"], item["link"], item["name"], item["citation"]))
     	except KeyError:
