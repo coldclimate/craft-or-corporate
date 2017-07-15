@@ -58,8 +58,8 @@ body, html {
 }
 
 body {
-   background: #000 url(/img/blackboard.jpg) center no-repeat;
-   background-size: cover;
+   background: #000 url(/img/blackboard.jpg) center repeat-y;
+   background-size: contain;
    color: rgba(255,255,255,.8);
    font-family: 'Indie Flower', cursive;
    padding: 40px;
