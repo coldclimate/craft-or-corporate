@@ -58,8 +58,7 @@ body, html {
 }
 
 body {
-   background: #000 url(/img/blackboard.jpg) center repeat-y;
-   background-size: contain;
+   background: #000 url(/img/blackboard.jpg) center top;
    color: rgba(255,255,255,.8);
    font-family: 'Indie Flower', cursive;
    padding: 40px;
@@ -94,6 +93,10 @@ main {
    font-size: 18px;
 }
 
+main ul {
+   padding: 0;
+}
+
 main li {
    list-style: none;
    padding: 10px 5px;
@@ -110,6 +113,23 @@ main a {
 main .citation {
    font-size: 60%;
    margin-left: 5px;
+}
+
+main input {
+   font-size: 24px;
+   text-align: center;
+   box-sizing: border-box;
+   border-radius: 15px;
+   box-shadow: inset 0px 1px 2px rgba(0,0,0,.5);
+   padding: 10px;
+   background: url(/img/filter.png) center no-repeat;
+   border: none;
+   color: rgba(255,255,255,.8);
+   width: 100%;
+}
+
+main input::placeholder {
+   color: rgba(255,255,255,.3);
 }
 
 .craft {}
