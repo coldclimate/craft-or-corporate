@@ -1,1630 +1,1629 @@
-[
-  {
-    "citation": "http://www.theguardian.com/lifeandstyle/2015/dec/23/why-camden-town-brewery-sale-craft-beer",
-    "link": "http://www.camdentownbrewery.com/",
-    "name": "Camden Town Brewery",
-    "status": "corporate"
-  },
-  {
-    "citation": "http://www.bloomberg.com/news/articles/2015-11-16/constellation-to-acquire-ballast-point-brewery-for-1-billion/",
-    "link": "http://www.ballastpoint.com/",
-    "name": "Ballast Point",
-    "status": "corporate"
-  },
-  {
-    "link": "http://www.beavertownbrewery.co.uk/",
-    "name": "Beavertown",
-    "status": "craft"
-  },
-  {
-    "citation": "https://www.brewdog.com/lowdown/blog/nailing-our-colours-to-the-motherfucking-mast",
-    "link": "https://www.brewdog.com/",
-    "name": "Brewdog",
-    "status": "craft"
-  },
-  {
-    "citation": "http://www.wsj.com/articles/anheuser-busch-buys-seattle-based-elysian-brewing-1422038807",
-    "link": "http://www.elysianbrewing.com/",
-    "name": "Elysian",
-    "status": "corporate"
-  },
-  {
-    "link": "http://gloucesterbrewery.co.uk",
-    "name": "Gloucester Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "http://www.cnbc.com/2015/09/23/anheuser-busch-scoops-up-another-craft-brewer.html",
-    "link": "http://www.goldenroad.la/",
-    "name": "Golden Road",
-    "status": "corporate"
-  },
-  {
-    "citation": "http://articles.chicagotribune.com/2011-03-28/business/ct-biz-0329-goose-ab-20110328_1_chicago-s-goose-island-craft-beer-craft-brewers",
-    "link": "http://www.gooseisland.com/",
-    "name": "Goose Island",
-    "status": "corporate"
-  },
-  {
-    "link": "http://www.hopstuffbrewery.com/",
-    "name": "Hopstuff",
-    "status": "craft"
-  },
-  {
-    "link": "http://www.thekernelbrewery.com/",
-    "name": "Kernel Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "http://www.forbes.com/sites/briansolomon/2015/09/08/heineken-grabs-50-of-lagunitas-brewery-to-take-ipas-global",
-    "link": "https://lagunitas.com/",
-    "name": "Lagunitas",
-    "status": "corporate"
-  },
-  {
-    "link": "http://www.magicrockbrewing.com",
-    "name": "Magic Rock Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "http://www.theguardian.com/business/2015/may/15/sab-miller-buys-meantime-to-enter-uk-craft-beer-market",
-    "link": "http://www.meantimebrewing.com/",
-    "name": "Meantime",
-    "status": "corporate"
-  },
-  {
-    "citation": "http://beerstreetjournal.com/nogne-o-gets-acquired/",
-    "link": "http://www.nogne-o.com/",
-    "name": "Nøgne Ø",
-    "status": "corporate"
-  },
-  {
-    "link": "http://padstowbrewing.co.uk",
-    "name": "Padstow Brewing",
-    "status": "craft"
-  },
-  {
-    "link": "http://www.theredchurchbrewery.com/",
-    "name": "The Red Church",
-    "status": "craft"
-  },
-  {
-    "link": "http://www.tynebankbrewery.co.uk",
-    "name": "Tyne Bank",
-    "status": "craft"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "10 Barrel Brewing Co",
-    "country": "USA",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "911",
-    "country": "Dominican Republic",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Absolut Cut",
-    "country": "Sweden",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Alexander Keith's",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Andes",
-    "country": "Argentina",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Antarctica",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Aqua Fratelli Vita",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "AstikA",
-    "country": "Bulgaria",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Baisha",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "BagBier Nashe",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Bass",
-    "country": "United Kingdom",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Baviera",
-    "country": "Paraguay",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Beck's",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Belle-Vue",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Bergenbier",
-    "country": "Romania",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Best Damn Brewing Company",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Birra del Borgo",
-    "country": "Italy",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Blue Point Brewing Company",
-    "country": "USA",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Blue Star",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Boddingtons",
-    "country": "Boddingtons",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Bogotá Beer Company",
-    "country": "Bolivia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Borsodi",
-    "country": "Hungary",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Borostyán",
-    "country": "Hungary",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Boomerang",
-    "country": "France",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Brahma",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Breda",
-    "country": "The Channel Islands",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Breckenridge Brewery",
-    "country": "USA",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Budweiser",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Busch",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Cafri",
-    "country": "South Korea",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Camden Town",
-    "country": "United Kingdom",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Caracu",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Cass",
-    "country": "South Korea",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Chernihivsk",
-    "country": "Ukraine",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Corona",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Devils Backbone",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Diebels",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Diekirch",
-    "country": "Luxembourg",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Dimix",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Dommelsch",
-    "country": "Netherlands",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Double Deer",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "E-Generation",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Premium Light",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Dry Beer",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Dutch Gold",
-    "country": "Netherlands",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Eiken Artois",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Elysian Brewing Company",
-    "country": "USA",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Four Peaks",
-    "country": "USA",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Franziskaner Weissbier",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Gilde Ratskeller",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Golden Road",
-    "country": "USA",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Goose Island Brewery",
-    "country": "USA",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Guaraná Antarctica",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Guaraná Brahma",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "GuoGuang",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Haake-Beck",
-    "country": "Germany
-    ",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Harbin",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Hasseröder",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Hertog Jan",
-    "country": "Netherlands",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Hoegaarden",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Hop Hound Amber Wheat",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Jinlin",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Jinlongquan",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Julius",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Jupiler",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "KK",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Kamenitza",
-    "country": "Bulgaria",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Klinskoye",
-    "country": "Russia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Kokanee",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "La Bécasse",
-    "country": "France",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Labatt",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Lakeport Family",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Leffe",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Liber",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Löwenbräu",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Malta Morena",
-    "country": "Dominican Republic",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Marathon",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Michelob",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Mill Street Brewery",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Mousel",
-    "country": "Luxembourg",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Pivara Trebjesa",
-    "country": "Montenegro",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Noroc",
-    "country": "Romania",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Oland Export Ale",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "OB",
-    "country": "South Korea",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Oranjeboom",
-	"country": "Netherlands",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Oranjeboom Premium Pilsener",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Oranjeboom Oud Bruin",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Oranjeboom Premish Malt",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Original",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Permskoye Gubernskoye",
-    "country": "Russia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Permskoye Gubernskoye Svetloye",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Paceña",
-    "country": "Bolivia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Piedboeuf",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Pilsen",
-    "country": "Uruguay",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Presidente Light",
-    "country": "Dominica Republic",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Presidente Black",
-    "country": "Dominican Republic",
-    "status": "corporate",
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Quilmes",
-    "country": "Argentina",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Red Bridge",
-    "country": "Luxembourg",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Red Shiliang",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Rifey",
-    "country": "Russia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Rohan",
-    "country": "Ukraine",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Ron Barceló",
-    "country": "Dominican Republic",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Rolling Rock",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Rock Light",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Safir",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Santai",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Schooner Lager",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Sedrin",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Shock Top Belgian White",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Sibirskaya Korona (Siberian Crown)",
-    "country": "Russia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Skol",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Spaten",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "St. Pauli Girl",
-    "country": "Germany",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Stella Artois",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Sukita",
-    "country": "Brazil",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Taller",
-    "country": "Ukraine",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Tinkov Russian Lager",
-    "country": "Russia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Tolstiak",
-    "country": "Russia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Turning Point",
-    "country": "Canada",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Vieux Temps",
-    "country": "Belgium",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Whitbread",
-    "country": "United Kingdom",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Yali",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Yantar",
-    "country": "Ukraine",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zagrebačka pivovara",
-    "country": "Croatia",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zizhulin",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zhujiang",
-    "country": "China",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zenda",
-    "country": "Peru",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Hilden",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Porterhouse",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Carlow",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Whitewater",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Franciscan Well",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Hooker",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "White Gypsy",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Beoir Chorca Dhuibhne",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Clanconnel",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Galway Bay",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Inishmacsaint",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Bo Bristle (as Breweyed)",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Dungarvan",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Trouble",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Ards",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Burren",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Dingle Brewing Co",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Eight Degrees",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Metalman",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "5 Lamps",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Big Hand",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Brown Paper Bag Project",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Carrig",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Donegal",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Elbow Lane",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Kinnegar",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Rising Sons (as 7 Windows)",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Blacks of Kinsale",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Brú",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Clear Sky",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Cotton Ball",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Farmageddon",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "JW Sweetman",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Mountain Man",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Otter Bank",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Pokertree",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Rascal",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Red Hand",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Sheelin",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Stone Barrel",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "West Mayo",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "12 Acres",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "12th Abbey",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "9 White Deer",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Black Donkey",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Brehon",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Cloughmore",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Costellos",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Dublin Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Four Provinces",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Glen of Antrim Ales",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Hercules",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Hillstown",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Independent",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Jack Cody's",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Jack Doyle's",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "JJs",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Kelly's Mountain Brew",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Knockout Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Mescan",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Munster",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "N17",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "O Brother",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Reel Deel",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Rye River",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "St Mel's Brewing Company",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Station Works",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Treaty City",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "West Cork",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "White Hag",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Wicklow Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Wicklow Wolf",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Arthurstown Brewing Co",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Barrahooley",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Benwiskin Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Boghopper Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Bogman Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Boundary Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Boyne Brewhouse",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Brewbot",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Brewtonic",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Carlingford Brewing Co",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Christy's",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Connacht Ales",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Corrib Brewing Co.",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Crafty Divils",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Dooliner",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Drew Fox Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Hope Beer",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "James Brown Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Kerry Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Killarney Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Lacada Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Manor Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Mourne Mountains Brew",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Northbound Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "O'Cleirigh",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "O'Connor Craft Beer",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Post Card Brewing Co",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Raven Brew",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Sailortown",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Simon Lamberts and Sons",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "The Hyland Brewing Company",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Third Circle",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Torc Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Two Sisters",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Walled City Brewpub",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Wood Key Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Achill Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Ballykilcavan Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Beaky Dargus",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Black Mountain",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Bullhouse Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Dopey Dick Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Dot Brew",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Evans Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Last Port Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Lough Gill Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Magic Hill",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Persistance Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Soulwater Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Sullivans Brew Co",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Two Sides Brewing Co",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Western Herd",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Whiplash",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Beer Hut Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Bridewell Brewery",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Clonakilty Brewing Co",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Dead Centre Brewing",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Northern Ireland",
-    "name": "Fifth Quarter",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Irishtown",
-    "status": "craft"
-  },
-  {
-    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
-    "country": "Republic of Ireland",
-    "name": "Priory Brrewing",
-    "status": "craft"
-  }
-]
+	[
+	  {
+	    "citation": "http://www.theguardian.com/lifeandstyle/2015/dec/23/why-camden-town-brewery-sale-craft-beer",
+	    "link": "http://www.camdentownbrewery.com/",
+	    "name": "Camden Town Brewery",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "http://www.bloomberg.com/news/articles/2015-11-16/constellation-to-acquire-ballast-point-brewery-for-1-billion/",
+	    "link": "http://www.ballastpoint.com/",
+	    "name": "Ballast Point",
+	    "status": "corporate"
+	  },
+	  {
+	    "link": "http://www.beavertownbrewery.co.uk/",
+	    "name": "Beavertown",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://www.brewdog.com/lowdown/blog/nailing-our-colours-to-the-motherfucking-mast",
+	    "link": "https://www.brewdog.com/",
+	    "name": "Brewdog",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "http://www.wsj.com/articles/anheuser-busch-buys-seattle-based-elysian-brewing-1422038807",
+	    "link": "http://www.elysianbrewing.com/",
+	    "name": "Elysian",
+	    "status": "corporate"
+	  },
+	  {
+	    "link": "http://gloucesterbrewery.co.uk",
+	    "name": "Gloucester Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "http://www.cnbc.com/2015/09/23/anheuser-busch-scoops-up-another-craft-brewer.html",
+	    "link": "http://www.goldenroad.la/",
+	    "name": "Golden Road",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "http://articles.chicagotribune.com/2011-03-28/business/ct-biz-0329-goose-ab-20110328_1_chicago-s-goose-island-craft-beer-craft-brewers",
+	    "link": "http://www.gooseisland.com/",
+	    "name": "Goose Island",
+	    "status": "corporate"
+	  },
+	  {
+	    "link": "http://www.hopstuffbrewery.com/",
+	    "name": "Hopstuff",
+	    "status": "craft"
+	  },
+	  {
+	    "link": "http://www.thekernelbrewery.com/",
+	    "name": "Kernel Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "http://www.forbes.com/sites/briansolomon/2015/09/08/heineken-grabs-50-of-lagunitas-brewery-to-take-ipas-global",
+	    "link": "https://lagunitas.com/",
+	    "name": "Lagunitas",
+	    "status": "corporate"
+	  },
+	  {
+	    "link": "http://www.magicrockbrewing.com",
+	    "name": "Magic Rock Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "http://www.theguardian.com/business/2015/may/15/sab-miller-buys-meantime-to-enter-uk-craft-beer-market",
+	    "link": "http://www.meantimebrewing.com/",
+	    "name": "Meantime",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "http://beerstreetjournal.com/nogne-o-gets-acquired/",
+	    "link": "http://www.nogne-o.com/",
+	    "name": "Nøgne Ø",
+	    "status": "corporate"
+	  },
+	  {
+	    "link": "http://padstowbrewing.co.uk",
+	    "name": "Padstow Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "link": "http://www.theredchurchbrewery.com/",
+	    "name": "The Red Church",
+	    "status": "craft"
+	  },
+	  {
+	    "link": "http://www.tynebankbrewery.co.uk",
+	    "name": "Tyne Bank",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "10 Barrel Brewing Co",
+	    "country": "USA",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "911",
+	    "country": "Dominican Republic",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Absolut Cut",
+	    "country": "Sweden",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Alexander Keith's",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Andes",
+	    "country": "Argentina",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Antarctica",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Aqua Fratelli Vita",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "AstikA",
+	    "country": "Bulgaria",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Baisha",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "BagBier Nashe",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Bass",
+	    "country": "United Kingdom",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Baviera",
+	    "country": "Paraguay",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Beck's",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Belle-Vue",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Bergenbier",
+	    "country": "Romania",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Best Damn Brewing Company",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Birra del Borgo",
+	    "country": "Italy",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Blue Point Brewing Company",
+	    "country": "USA",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Blue Star",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Boddingtons",
+	    "country": "Boddingtons",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Bogotá Beer Company",
+	    "country": "Bolivia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Borsodi",
+	    "country": "Hungary",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Borostyán",
+	    "country": "Hungary",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Boomerang",
+	    "country": "France",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Brahma",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Breda",
+	    "country": "The Channel Islands",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Breckenridge Brewery",
+	    "country": "USA",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Budweiser",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Busch",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Cafri",
+	    "country": "South Korea",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Camden Town",
+	    "country": "United Kingdom",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Caracu",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Cass",
+	    "country": "South Korea",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Chernihivsk",
+	    "country": "Ukraine",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Corona",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Devils Backbone",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Diebels",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Diekirch",
+	    "country": "Luxembourg",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Dimix",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Dommelsch",
+	    "country": "Netherlands",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Double Deer",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "E-Generation",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Premium Light",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Dry Beer",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Dutch Gold",
+	    "country": "Netherlands",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Eiken Artois",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Elysian Brewing Company",
+	    "country": "USA",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Four Peaks",
+	    "country": "USA",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Franziskaner Weissbier",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Gilde Ratskeller",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Golden Road",
+	    "country": "USA",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Goose Island Brewery",
+	    "country": "USA",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Guaraná Antarctica",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Guaraná Brahma",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "GuoGuang",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Haake-Beck",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Harbin",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Hasseröder",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Hertog Jan",
+	    "country": "Netherlands",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Hoegaarden",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Hop Hound Amber Wheat",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Jinlin",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Jinlongquan",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Julius",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Jupiler",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "KK",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Kamenitza",
+	    "country": "Bulgaria",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Klinskoye",
+	    "country": "Russia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Kokanee",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "La Bécasse",
+	    "country": "France",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Labatt",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Lakeport Family",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Leffe",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Liber",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Löwenbräu",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Malta Morena",
+	    "country": "Dominican Republic",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Marathon",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Michelob",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Mill Street Brewery",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Mousel",
+	    "country": "Luxembourg",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Pivara Trebjesa",
+	    "country": "Montenegro",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Noroc",
+	    "country": "Romania",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Oland Export Ale",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "OB",
+	    "country": "South Korea",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Oranjeboom",
+		"country": "Netherlands",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Oranjeboom Premium Pilsener",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Oranjeboom Oud Bruin",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Oranjeboom Premish Malt",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Original",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Permskoye Gubernskoye",
+	    "country": "Russia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Permskoye Gubernskoye Svetloye",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Paceña",
+	    "country": "Bolivia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Piedboeuf",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Pilsen",
+	    "country": "Uruguay",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Presidente Light",
+	    "country": "Dominica Republic",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Presidente Black",
+	    "country": "Dominican Republic",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Quilmes",
+	    "country": "Argentina",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Red Bridge",
+	    "country": "Luxembourg",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Red Shiliang",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Rifey",
+	    "country": "Russia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Rohan",
+	    "country": "Ukraine",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Ron Barceló",
+	    "country": "Dominican Republic",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Rolling Rock",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Rock Light",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Safir",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Santai",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Schooner Lager",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Sedrin",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Shock Top Belgian White",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Sibirskaya Korona (Siberian Crown)",
+	    "country": "Russia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Skol",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Spaten",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "St. Pauli Girl",
+	    "country": "Germany",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Stella Artois",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Sukita",
+	    "country": "Brazil",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Taller",
+	    "country": "Ukraine",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Tinkov Russian Lager",
+	    "country": "Russia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Tolstiak",
+	    "country": "Russia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Turning Point",
+	    "country": "Canada",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Vieux Temps",
+	    "country": "Belgium",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Whitbread",
+	    "country": "United Kingdom",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Yali",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Yantar",
+	    "country": "Ukraine",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Zagrebačka pivovara",
+	    "country": "Croatia",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Zizhulin",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Zhujiang",
+	    "country": "China",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+	    "name": "Zenda",
+	    "country": "Peru",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Hilden",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Porterhouse",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Carlow",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Whitewater",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Franciscan Well",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Hooker",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "White Gypsy",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Beoir Chorca Dhuibhne",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Clanconnel",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Galway Bay",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Inishmacsaint",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Bo Bristle (as Breweyed)",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Dungarvan",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Trouble",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Ards",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Burren",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Dingle Brewing Co",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Eight Degrees",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Metalman",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "5 Lamps",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Big Hand",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Brown Paper Bag Project",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Carrig",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Donegal",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Elbow Lane",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Kinnegar",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Rising Sons (as 7 Windows)",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Blacks of Kinsale",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Brú",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Clear Sky",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Cotton Ball",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Farmageddon",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "JW Sweetman",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Mountain Man",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Otter Bank",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Pokertree",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Rascal",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Red Hand",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Sheelin",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Stone Barrel",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "West Mayo",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "12 Acres",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "12th Abbey",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "9 White Deer",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Black Donkey",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Brehon",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Cloughmore",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Costellos",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Dublin Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Four Provinces",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Glen of Antrim Ales",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Hercules",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Hillstown",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Independent",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Jack Cody's",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Jack Doyle's",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "JJs",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Kelly's Mountain Brew",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Knockout Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Mescan",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Munster",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "N17",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "O Brother",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Reel Deel",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Rye River",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "St Mel's Brewing Company",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Station Works",
+	    "status": "corporate"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Treaty City",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "West Cork",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "White Hag",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Wicklow Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Wicklow Wolf",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Arthurstown Brewing Co",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Barrahooley",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Benwiskin Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Boghopper Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Bogman Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Boundary Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Boyne Brewhouse",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Brewbot",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Brewtonic",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Carlingford Brewing Co",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Christy's",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Connacht Ales",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Corrib Brewing Co.",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Crafty Divils",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Dooliner",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Drew Fox Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Hope Beer",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "James Brown Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Kerry Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Killarney Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Lacada Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Manor Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Mourne Mountains Brew",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Northbound Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "O'Cleirigh",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "O'Connor Craft Beer",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Post Card Brewing Co",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Raven Brew",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Sailortown",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Simon Lamberts and Sons",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "The Hyland Brewing Company",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Third Circle",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Torc Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Two Sisters",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Walled City Brewpub",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Wood Key Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Achill Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Ballykilcavan Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Beaky Dargus",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Black Mountain",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Bullhouse Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Dopey Dick Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Dot Brew",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Evans Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Last Port Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Lough Gill Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Magic Hill",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Persistance Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Soulwater Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Sullivans Brew Co",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Two Sides Brewing Co",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Western Herd",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Whiplash",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Beer Hut Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Bridewell Brewery",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Clonakilty Brewing Co",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Dead Centre Brewing",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Northern Ireland",
+	    "name": "Fifth Quarter",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Irishtown",
+	    "status": "craft"
+	  },
+	  {
+	    "citation": "https://docs.google.com/spreadsheets/d/1HXBzQHvMjFikJ1Vld8AW6kqK3ydNXpuWKtUWeNYI4fc/edit?usp=sharing",
+	    "country": "Republic of Ireland",
+	    "name": "Priory Brrewing",
+	    "status": "craft"
+	  }
+	]
