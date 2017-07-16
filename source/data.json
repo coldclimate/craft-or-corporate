@@ -95,47 +95,56 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "10 Barrel Brewing Co (USA)",
+    "name": "10 Barrel Brewing Co",
+    "country": "USA",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "911 (Dominican Republic)",
+    "name": "911",
+    "country": "Dominican Republic",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Absolut Cut (Sweden)",
+    "name": "Absolut Cut",
+    "country": "Sweden",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Alexander Keith's (Canada)",
+    "name": "Alexander Keith's",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Andes (Argentina)",
+    "name": "Andes",
+    "country": "Argentina",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Antarctica (Brazil)",
+    "name": "Antarctica",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Aqua Fratelli Vita (Brazil)",
+    "name": "Aqua Fratelli Vita",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "AstikA (Bulgaria)",
+    "name": "AstikA",
+    "country": "Bulgaria",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Baisha (China)",
+    "name": "Baisha",
+    "country": "China",
     "status": "corporate"
   },
   {
@@ -145,27 +154,32 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Bass (United Kingdom)",
+    "name": "Bass",
+    "country": "United Kingdom",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Baviera (Paraguay)",
+    "name": "Baviera",
+    "country": "Paraguay",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Beck's (Germany)",
+    "name": "Beck's",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Belle-Vue (Belgium)",
+    "name": "Belle-Vue",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Bergenbier (Romania)",
+    "name": "Bergenbier",
+    "country": "Romania",
     "status": "corporate"
   },
   {
@@ -175,57 +189,67 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Birra del Borgo (Italy)",
+    "name": "Birra del Borgo",
+    "country": "Italy",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Blue Point Brewing Company (USA)",
+    "name": "Blue Point Brewing Company",
+    "country": "USA",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Blue Star (Canada)",
+    "name": "Blue Star",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Boddingtons (United Kingdom)",
+    "name": "Boddingtons",
+    "country": "Boddingtons",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Bogotá Beer Company (Colombia)",
+    "name": "Bogotá Beer Company",
+    "country": "Bolivia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Borsodi (Hungary)",
+    "name": "Borsodi",
+    "country": "Hungary",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Borostyán (Hungary)",
+    "name": "Borostyán",
+    "country": "Hungary",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Boomerang (France)",
+    "name": "Boomerang",
+    "country": "France",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Brahma (Global)",
+    "name": "Brahma",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Breda (The Channel Islands) Still Available",
+    "name": "Breda",
+    "country": "The Channel Islands",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Breckenridge Brewery (USA)",
+    "name": "Breckenridge Brewery",
+    "country": "USA",
     "status": "corporate"
   },
   {
@@ -240,27 +264,32 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Cafri (South Korea)",
+    "name": "Cafri",
+    "country": "South Korea",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Camden Town (UK)",
+    "name": "Camden Town",
+    "country": "United Kingdom",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Caracu (Brazil)",
+    "name": "Caracu",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Cass (South Korea)",
+    "name": "Cass",
+    "country": "South Korea",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Chernihivske (Ukraine)",
+    "name": "Chernihivsk",
+    "country": "Ukraine",
     "status": "corporate"
   },
   {
@@ -275,27 +304,32 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Diebels (Germany)",
+    "name": "Diebels",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Diekirch (Luxembourg)",
+    "name": "Diekirch",
+    "country": "Luxembourg",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Dimix (Germany)",
+    "name": "Dimix",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Dommelsch (Netherlands)",
+    "name": "Dommelsch",
+    "country": "Netherlands",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Double Deer (China)",
+    "name": "Double Deer",
+    "country": "China",
     "status": "corporate"
   },
   {
@@ -315,7 +349,8 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Dutch Gold (Netherlands)",
+    "name": "Dutch Gold",
+    "country": "Netherlands",
     "status": "corporate"
   },
   {
@@ -325,72 +360,87 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Elysian Brewing Company (USA)",
+    "name": "Elysian Brewing Company",
+    "country": "USA",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Four Peaks[2] (USA)",
+    "name": "Four Peaks",
+    "country": "USA",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Franziskaner Weissbier (Germany)",
+    "name": "Franziskaner Weissbier",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Gilde Ratskeller (Germany)",
+    "name": "Gilde Ratskeller",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Golden Road (USA)",
+    "name": "Golden Road",
+    "country": "USA",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Goose Island Brewery (USA)",
+    "name": "Goose Island Brewery",
+    "country": "USA",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Guaraná Antarctica (Brazil)",
+    "name": "Guaraná Antarctica",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Guaraná Brahma (Brazil)",
+    "name": "Guaraná Brahma",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "GuoGuang (China)",
+    "name": "GuoGuang",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Haake-Beck (Germany)",
+    "name": "Haake-Beck",
+    "country": "Germany
+    ",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Harbin (China)",
+    "name": "Harbin",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Hasseröder (Germany)",
+    "name": "Hasseröder",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Hertog Jan (Netherlands)",
+    "name": "Hertog Jan",
+    "country": "Netherlands",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Hoegaarden (Belgium)",
+    "name": "Hoegaarden",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
@@ -400,82 +450,98 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Jinlin (China)",
+    "name": "Jinlin",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Jinlongquan (China)",
+    "name": "Jinlongquan",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Julius (Belgium)",
+    "name": "Julius",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Jupiler (Belgium)",
+    "name": "Jupiler",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "KK (China)",
+    "name": "KK",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Kamenitza (Bulgaria)",
+    "name": "Kamenitza",
+    "country": "Bulgaria",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Klinskoye (Russia)",
+    "name": "Klinskoye",
+    "country": "Russia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Kokanee (Canada)",
+    "name": "Kokanee",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "La Bécasse (France)",
+    "name": "La Bécasse",
+    "country": "France",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Labatt (Canada)",
+    "name": "Labatt",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Lakeport Family (Canada)",
+    "name": "Lakeport Family",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Leffe (Belgium)",
+    "name": "Leffe",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Liber (Brazil)",
+    "name": "Liber",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Löwenbräu (Germany)",
+    "name": "Löwenbräu",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Malta Morena (Dominican Republic)",
+    "name": "Malta Morena",
+    "country": "Dominican Republic",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Marathon (Brazil)",
+    "name": "Marathon",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
@@ -485,37 +551,44 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Mill Street Brewery (Canada)",
+    "name": "Mill Street Brewery",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Mousel (Luxembourg)",
+    "name": "Mousel",
+    "country": "Luxembourg",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Pivara Trebjesa (Montenegro)",
+    "name": "Pivara Trebjesa",
+    "country": "Montenegro",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Noroc (Romania)",
+    "name": "Noroc",
+    "country": "Romania",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Oland Export Ale (Canada)",
+    "name": "Oland Export Ale",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "OB (South Korea)",
+    "name": "OB",
+    "country": "South Korea",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Oranjeboom (Netherlands)",
+    "name": "Oranjeboom",
+	"country": "Netherlands",
     "status": "corporate"
   },
   {
@@ -535,12 +608,14 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Original (Brazil)",
+    "name": "Original",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Permskoye Gubernskoye (Russia)",
+    "name": "Permskoye Gubernskoye",
+    "country": "Russia",
     "status": "corporate"
   },
   {
@@ -550,57 +625,68 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Paceña (Bolivia)",
+    "name": "Paceña",
+    "country": "Bolivia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Piedboeuf (Belgium)",
+    "name": "Piedboeuf",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Pilsen (Uruguay)",
+    "name": "Pilsen",
+    "country": "Uruguay",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Presidente Light (Dominica Republic)",
+    "name": "Presidente Light",
+    "country": "Dominica Republic",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Presidente Black (Dominican Republic)",
+    "name": "Presidente Black",
+    "country": "Dominican Republic",
+    "status": "corporate",
+  },
+  {
+    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
+    "name": "Quilmes",
+    "country": "Argentina",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Quilmes (Argentina)",
+    "name": "Red Bridge",
+    "country": "Luxembourg",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Red Bridge (Luxembourg)",
+    "name": "Red Shiliang",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Red Shiliang (China)",
+    "name": "Rifey",
+    "country": "Russia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Rifey (Russia)",
+    "name": "Rohan",
+    "country": "Ukraine",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Rohan (Ukraine)",
-    "status": "corporate"
-  },
-  {
-    "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Ron Barceló (Dominican Republic)",
+    "name": "Ron Barceló",
+    "country": "Dominican Republic",
     "status": "corporate"
   },
   {
@@ -615,22 +701,26 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Safir (Belgium)",
+    "name": "Safir",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Santai (China)",
+    "name": "Santai",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Schooner Lager (Canada)",
+    "name": "Schooner Lager",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Sedrin (China)",
+    "name": "Sedrin",
+    "country": "China",
     "status": "corporate"
   },
   {
@@ -640,92 +730,109 @@
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Sibirskaya Korona (Siberian Crown)(Russia)",
+    "name": "Sibirskaya Korona (Siberian Crown)",
+    "country": "Russia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Skol (Brazil)",
+    "name": "Skol",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Spaten (Germany)",
+    "name": "Spaten",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "St. Pauli Girl (Germany)",
+    "name": "St. Pauli Girl",
+    "country": "Germany",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Stella Artois (Global)",
+    "name": "Stella Artois",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Sukita (Brazil)",
+    "name": "Sukita",
+    "country": "Brazil",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Taller (Ukraine)",
+    "name": "Taller",
+    "country": "Ukraine",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Tinkov Russian Lager (Russia)",
+    "name": "Tinkov Russian Lager",
+    "country": "Russia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Tolstiak (Russia)",
+    "name": "Tolstiak",
+    "country": "Russia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Turning Point (Canada)",
+    "name": "Turning Point",
+    "country": "Canada",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Vieux Temps (Belgium)",
+    "name": "Vieux Temps",
+    "country": "Belgium",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Whitbread (United Kingdom)",
+    "name": "Whitbread",
+    "country": "United Kingdom",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Yali (China)",
+    "name": "Yali",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Yantar (Ukraine)",
+    "name": "Yantar",
+    "country": "Ukraine",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zagrebačka pivovara (Croatia)",
+    "name": "Zagrebačka pivovara",
+    "country": "Croatia",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zizhulin (China)",
+    "name": "Zizhulin",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zhujiang (China)",
+    "name": "Zhujiang",
+    "country": "China",
     "status": "corporate"
   },
   {
     "citation": "https://en.wikipedia.org/wiki/AB_InBev_brands",
-    "name": "Zenda (Perú)",
+    "name": "Zenda",
+    "country": "Peru",
     "status": "corporate"
   },
   {
