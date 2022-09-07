@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: build
-        run: source/build.sh
+        run: cd source &&./build.sh
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:

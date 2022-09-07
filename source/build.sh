@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-set -eux
-python build.py
-export content=$(cat output.html)
-sed "s#@@MAIN_CONTENT@@#$content#g" template.html > index.html
-mv index.html ../output/
+export DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
+python ${DIR}/build.py
+export content=$(cat ${DIR}/output.html)
+sed "s#@@MAIN_CONTENT@@#$content#g" ${DIR}/template.html > ${DIR}/index.html
+mv ${DIR}/index.html ../output/
